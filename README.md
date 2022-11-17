@@ -1,2 +1,1 @@
-# .github
-Public organization repository
+# Airflight ApS
